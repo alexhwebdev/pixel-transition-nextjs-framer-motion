@@ -1,3 +1,4 @@
+// NEED TO TS CODE CORRECTLY BELOW. Use horizontal component as example
 // "use client"
 
 // import React, { useState, useEffect } from 'react'
